@@ -28,7 +28,6 @@
 <br />
 <p align="center">
   <a href="https://github.com/AsunaMS/Myoga/">
-    <img src="https://i.ibb.co/JFPHvTJ/yoga.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Myoga Android Application</h3>
@@ -87,9 +86,9 @@ Myoga is a simple Android Application written in java, desgined to show great bo
 
 ### Built With
 
-* [](Java)
-* [](JavaScript)
-* [](XML)
+* [Java](Java)
+* [JavaScript](JavaScript)
+* [XML](XML)
 
 
 
