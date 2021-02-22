@@ -83,9 +83,9 @@ Myoga is a simple Android Application written in java, desgined to show great bo
 
 ### Built With
 
-* [Java](Java)
-* [JavaScript](JavaScript)
-* [XML](XML)
+* [Java]
+* [JavaScript]
+* [XML]
 
 
 
