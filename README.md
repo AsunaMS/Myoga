@@ -32,7 +32,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/AsunaMS/Myoga/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -41,14 +41,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AsunaMS/Myoga/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/AsunaMS/Presentations/blob/master/MyogaSD.pdf">View App Presentation</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://www.linkedin.com/in/nadav-avnon-238b011b9/">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://www.linkedin.com/in/nadav-avnon-238b011b9/">Request Feature</a>
   </p>
 </p>
 
@@ -85,18 +85,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
+Myoga is a simple Android Application written in java, desgined to show great book recommendations & display videos and articles about yoga:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [](Java)
+* [](JavaScript)
+* [](XML)
 
 
 
@@ -108,77 +106,32 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Android Studio
   ```sh
-  npm install npm@latest -g
+  Install Android Studio to launch the application on your computer
   ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/AsunaMS/Myoga.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+Myoga is designed with real-time database and network observers to always catch up with the latest quates & videos available on the cloud
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Nadav Avnon- [@linkedin_handle](https://www.linkedin.com/in/nadav-avnon-238b011b9/) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
+Project Link: [https://github.com/AsunaMS/Myoga](https://github.com/AsunaMS/Myoga)
 
 
 
