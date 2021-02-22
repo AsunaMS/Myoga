@@ -30,10 +30,10 @@
   <a href="https://github.com/AsunaMS/Myoga/">
   </a>
 
-  <h3 align="center">Myoga Android Application</h3>
+  <h3 align="center">Myoga Android</h3>
 
   <p align="center">
-    project_description
+    Yoga, Quates, news and Videos, Myoga, Written in Java
     <br />
     <a href="https://github.com/AsunaMS/Myoga/"><strong>Explore the docs »</strong></a>
     <br />
